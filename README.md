@@ -20,3 +20,11 @@ rmdir gyakorlas /s /q
 
 #cache clear
 -npm cache clean --force 
+
+
+port changing 
+-vite.config.js
+server:{
+port:4000
+}
+
