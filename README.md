@@ -1,4 +1,4 @@
-# Vue.js
+# Windows CLI
 - cd .. egy mappával kíjebb megyünk
 - cd mappanév 
 - dir aktuális mappa kilistázása
@@ -8,7 +8,7 @@
 - mappa törlése: cd.. 
 - rmdir gyakorlas /s /q 
 
-# Node.js 
+# Vue CLI
 - node -v 
 - npm -v 
 - Vue create
